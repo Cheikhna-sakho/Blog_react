@@ -1,0 +1,15 @@
+/* form {box-shadow: 5px 5px 17px black;height: fit-content;padding: 12px;background: #685858;border-radius: 10px;margin-top: 20px;color: white;font-size: 24px;} */
+.error {
+    color: #ff9e9e;
+}
+
+form {
+    box-shadow: 5px 5px 17px black;
+    padding: 12px;
+    background: #685858;
+    border-radius: 10px;
+    color: white;
+    font-size: 24px;
+}
+
+/* .form-box {height: 100vh;display: flex;justify-content: center;margin: auto;text-align: center;background: #c44141;} */

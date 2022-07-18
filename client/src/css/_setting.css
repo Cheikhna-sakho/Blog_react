@@ -1,0 +1,20 @@
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* .content {height: 100vh;display: flex;justify-content: center;margin: auto;text-align: center;background: #c44141;} */
+.content {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background: #c44141;
+    padding: 15px;
+    height: 100%;
+    
+}
+.form-box {display: flex;
+    align-items: center;}

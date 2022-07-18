@@ -1,0 +1,30 @@
+{
+  "name": "mernj4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechWebAcademiePromo2023/W-JSC-502-PAR-2-2-mernj4-cheikhna.sakho.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechWebAcademiePromo2023/W-JSC-502-PAR-2-2-mernj4-cheikhna.sakho/issues"
+  },
+  "homepage": "https://github.com/EpitechWebAcademiePromo2023/W-JSC-502-PAR-2-2-mernj4-cheikhna.sakho#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.3",
+    "mongoose-unique-validator": "^3.0.0",
+    "sha1": "^1.1.1",
+    "sha1-hash-and-verify": "^1.0.4"
+  }
+}
